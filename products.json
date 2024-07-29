@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Cartoon Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "White-flower Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 75.00,
+        "description": "Lightweight running shoes for comfort and performance.",
+        "image": "img/f2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Rose Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 20.00,
+        "description": "A stylish hat to complement your casual outfits.",
+        "image": "img/f3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sakura Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pink-flower Shirt",
+        "category": "Short-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mix-color Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cotton pants",
+        "category": "Pant",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/f7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Light-blue Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Grey Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n2.jpg"
+    },
+    {
+        "id": 10,
+        "name": "White Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n3.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Dark-blue Shirt",
+        "category": "Long-sleeve Shirt",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n5.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Short Pant",
+        "category": "Pant",
+        "price": 45.00,
+        "description": "A comfortable and stylish casual shirt perfect for everyday wear.",
+        "image": "img/n6.jpg"
+    }
+]
